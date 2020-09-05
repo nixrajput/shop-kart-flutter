@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970467935648",
+    "firebase_url": "https://nixlab-shopkart.firebaseio.com",
+    "project_id": "nixlab-shopkart",
+    "storage_bucket": "nixlab-shopkart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970467935648:android:9a8a9dc9d50efae603d0c5",
+        "android_client_info": {
+          "package_name": "com.nixlab.shopcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970467935648-3nuogfe7pr5aidakpl0qf0f80upiig7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nixlab.shopcart",
+            "certificate_hash": "2a9eff43ccfd86432ed1cfa19d180a8a1c15dcbe"
+          }
+        },
+        {
+          "client_id": "970467935648-2ibofbdvt1r4dij1gfd2deul0so7tvth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjt62iqeuAq0Ilckq3eULObNhVeo0a4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970467935648-2ibofbdvt1r4dij1gfd2deul0so7tvth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
