@@ -1,9 +1,9 @@
 {
   "project_info": {
-    "project_number": "970467935648",
-    "firebase_url": "https://nixlab-shopkart.firebaseio.com",
-    "project_id": "nixlab-shopkart",
-    "storage_bucket": "nixlab-shopkart.appspot.com"
+    "project_number": "YOUR PROJECT NUMBER",
+    "firebase_url": "YOUR FIREBASE URL",
+    "project_id": "YOUR PRODUCT ID",
+    "storage_bucket": "YOUR STORAGE BUCKET"
   },
   "client": [
     {
