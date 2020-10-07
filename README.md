@@ -1,16 +1,20 @@
-# shopcart
+# ShopKart App
 
-A new Flutter application.
+A simple e-commerce app built using Flutter and Firebase.
 
-## Getting Started
+## Connect With Me:
 
-This project is a starting point for a Flutter application.
+[<img align="left" alt="nixrajput" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nixrajput | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="nixrajput | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nixrajput | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nixrajput | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[github]: https://github.com/nixrajput
+[webdevplaylist]: https://github.com/nixrajput
+[website]: https://nixlab-blog-api.herokuapp.com
+[facebook]: https://facebook.com/nixrajput07
+[twitter]: https://facebook.com/nixrajput07
+[instagram]: https://instagram.com/nixrajput
+[linkedin]: https://linkedin.com/in/nixrajput
