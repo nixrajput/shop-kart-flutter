@@ -51,6 +51,7 @@ class Auth with ChangeNotifier {
           seconds: int.parse(
         responseData['expiresIn'],
       )));
+      print(responseData);
       _autoLogout();
       notifyListeners();
       final prefs = await SharedPreferences.getInstance();
@@ -103,7 +104,7 @@ class Auth with ChangeNotifier {
     }
     notifyListeners();
     final prefs = await SharedPreferences.getInstance();
-    //prefs.remove('userData');
+    prefs.remove('userData');
     prefs.clear();
   }
 
